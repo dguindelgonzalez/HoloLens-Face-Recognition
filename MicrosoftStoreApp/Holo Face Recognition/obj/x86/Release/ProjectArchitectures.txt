@@ -1,0 +1,2 @@
+C:\src\Unity\Holo Face Recognition\MicrosoftStoreApp\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\src\Unity\Holo Face Recognition\MicrosoftStoreApp\Holo Face Recognition\Holo Face Recognition.csproj;x86
